@@ -1,0 +1,23 @@
+.mainLayoutContainer {
+    min-height: 100vh
+}
+
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    display: 'flex';
+}
+.textLogo {
+    color:#ededed !important; 
+    text-align: "center"; 
+    padding: 0 ;
+    cursor: pointer;
+   
+    
+}
+
+.mainContent{
+    padding: 24px;
+    min-height: calc(100vh - 128px)
+}
