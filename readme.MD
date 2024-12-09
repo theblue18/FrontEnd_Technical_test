@@ -35,13 +35,13 @@ ______               _   _____          _
 
 3. Create new .env file and copy content of .env.example to .env.
 
-3. Start the development server:
+4. Start the development server:
 
 `yarn dev`
 
-4. Open http://localhost:5173 in your browser to view the application.
+5. Open http://localhost:5173 in your browser to view the application.
 
-  
+6. Click here if you want to test online: https://front-end-technical-test.vercel.app/
   
 
 ## I - Development
