@@ -62,8 +62,11 @@ Comments are appreciated ;-)
 **For the entire of application, I use:**
 
 **1. Language/Framework:** Reactjs/Typescript (my tech stack)
+
 **2. State Management Framework:** React Hook/Redux/Redux Persist (Good to use because we can handle the complex state)
+
 **3. Build tool:** Vite (fast for small - medium project, reduce the build time)
+
 **4. UI framework:** Ant Design (my tech stack)
 
   
