@@ -1,4 +1,3 @@
-import axios from "axios"
 import type { APIResponse } from "../types/api.types"
 import dataProducts  from "./products.json"
 import type { Product } from "../types/common.types"
